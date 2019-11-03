@@ -8,7 +8,7 @@ There is also a web application that can display the deadlines and configure the
 - Add a nickname for your obscure course names: e.g. "Relational Databases" for "CPSC 304 101/102".
 - Limit the timeline of due dates to annouce: e.g. "within 3 days" or "within 20 days".
 
-Won 2nd place for the UBC Canvas API 2018 hackathon, [here](/slides/Voice-Activation-Deadline-Hackathon-Presentation.pptx) are the presentation slides.
+Won 2nd place for the UBC Canvas API 2018 hackathon, [here](/Voice-Activation-Deadline-Hackathon-Presentation.pptx) are the presentation slides.
 
 ## Demo
 Sample of how Alexa speaks in SSML (Speech Synthesis Markup Language):
